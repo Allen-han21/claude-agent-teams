@@ -1,0 +1,15 @@
+# Personal settings (may contain paths, tokens)
+settings.json
+settings.local.json
+*.local.*
+
+# Secrets
+.env
+*.secret
+credentials.*
+
+# OS
+.DS_Store
+
+# Experiment temp files
+experiments/tmp/
